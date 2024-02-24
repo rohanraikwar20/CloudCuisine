@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "file.upload.basepath",
+    "type": "java.lang.String",
+    "description": "when static files are uploaded from the application they will be stored at 'file.upload.basepath'"
+  },
+  {
+    "name": "file.upload.basepath",
+    "type": "java.lang.String",
+    "description": "A description for 'file.upload.basepath'"
+  }
+]}
